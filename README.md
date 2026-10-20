@@ -1,23 +1,19 @@
 # 🤖 MathBot: Exploring JavaScript Math Methods
 
-A simple JavaScript project that introduces the most commonly used methods from the built-in `Math` object. Through a friendly bot named **MathBot**, users learn how to generate random numbers, round values, and find minimum and maximum values.
+A JavaScript project that shows the most commonly used methods from the built-in `Math` object. Through my friendly bot called **MathBot**, users will could learn how to generate random numbers, round values, and find minimum and maximum values.
 
 ## 📋 Overview
 
-MathBot is a beginner-friendly JavaScript program designed to demonstrate how the `Math` object can be used in real-world scenarios.
+The MathBot program covers:
 
-The project covers:
+- ✅️ Random number generation;
+- ✅️ Random integer generation;
+- ✅️ Rounding numbers up and down;
+- ✅️ Rounding to the nearest integer;
+- ✅️ Finding maximum values;
+- ✅️ Finding minimum values.
 
-- Random number generation
-- Random integer generation
-- Rounding numbers up and down
-- Rounding to the nearest integer
-- Finding maximum values
-- Finding minimum values
-
-This project is ideal for developers learning JavaScript fundamentals.
-
-## ✨ Features
+### ✨ Features
 
 - 🤖 Interactive MathBot introduction
 - 🎲 Generate pseudo-random numbers using `Math.random()`
@@ -28,34 +24,14 @@ This project is ideal for developers learning JavaScript fundamentals.
 - 📈 Find the largest value using `Math.max()`
 - 📉 Find the smallest value using `Math.min()`
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
-- JavaScript (ES6+)
+🔵 JavaScript (ES6+);
   
-- Node.js (optional for execution)
+🟡 Node.js (optional for execution);
 
 
-## 📚 Concepts Covered
-
-### `Math.random()`
-Generates a pseudo-random decimal number between `0` (inclusive) and `1` (exclusive).
-
-### `Math.floor()`
-Rounds a number down to the nearest whole integer.
-
-### `Math.ceil()`
-Rounds a number up to the nearest whole integer.
-
-### `Math.round()`
-Rounds a number to the nearest whole integer.
-
-### `Math.max()`
-Returns the largest number from a list of values.
-
-### `Math.min()`
-Returns the smallest number from a list of values.
-
-## ▶️ How to Run
+### ▶️ How to Run
 
 1. Save the code in a file named `index.js`
 2. Open a terminal in the project directory
@@ -63,8 +39,16 @@ Returns the smallest number from a list of values.
 
 node index.js
 
+### Clone this repository:
 
-## 📊 Example Output
+git clone https://github.com/willpaes/math_Bot.git
+
+
+### Navigate to the project directory:
+
+cd math_Bot
+
+## 📊 Output
 
 Hi there! My name is MathBot and I am here to teach you about the Math object!
 
@@ -104,33 +88,12 @@ It was fun learning about the different Math methods with you!
 > Note: Random values will change each time the program runs.
 
 
-## 🎯 Learning Objectives
-
-By completing this project, you will gain hands-on experience with:
-
-- Variables and constants
-- Template literals
-- Console output
-- Built-in JavaScript objects
-- Mathematical operations
-- Random number generation
-- Number manipulation methods
-
-
 ## 👨‍💻 Author
 
-Created as a JavaScript learning project to explore the capabilities of the `Math` object and strengthen fundamental programming skills.
+Developed by Fabio William
 
-## ⭐ Future Improvements
+[LinkedIn](https://www.linkedin.com/in/fabio-william-paes-lima-4b31751b4) | [GitHub](https://github.com/willpaes)
 
-Potential enhancements include:
+## 📝 License
 
-- User input for custom number ranges
-- Math quiz mode
-- Number guessing game
-- Additional Math object methods
-- Interactive browser version
-
-## 📄 License
-
-This project is available for educational and learning purposes.
+This project is open source and available under the MIT License.
